@@ -1,0 +1,2 @@
+# Extension-Spoofer
+Spoof Extensions 
